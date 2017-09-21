@@ -1,0 +1,5 @@
+c:\users\lorei_000\documents\visual studio 2017\Projects\LabFive\LabFive\bin\Debug\LabFive.exe.config
+c:\users\lorei_000\documents\visual studio 2017\Projects\LabFive\LabFive\bin\Debug\LabFive.exe
+c:\users\lorei_000\documents\visual studio 2017\Projects\LabFive\LabFive\bin\Debug\LabFive.pdb
+c:\users\lorei_000\documents\visual studio 2017\Projects\LabFive\LabFive\obj\Debug\LabFive.exe
+c:\users\lorei_000\documents\visual studio 2017\Projects\LabFive\LabFive\obj\Debug\LabFive.pdb
